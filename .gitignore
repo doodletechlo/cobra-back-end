@@ -1,0 +1,9 @@
+.classpath
+.project
+.gradle/2.4/taskArtifacts/cache.properties
+.gradle/2.4/taskArtifacts/cache.properties.lock
+.gradle/2.4/taskArtifacts/fileHashes.bin
+.gradle/2.4/taskArtifacts/fileSnapshots.bin
+.gradle/2.4/taskArtifacts/outputFileStates.bin
+.gradle/2.4/taskArtifacts/taskArtifacts.bin
+.settings/org.eclipse.jdt.core.prefs
